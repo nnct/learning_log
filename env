@@ -1,0 +1,5 @@
+DB_NAME=ll_log
+DB_USER=ll_log
+DB_PASS=$1$xyz$mVBNCULkNbHVDmFhfWBvY/
+DB_SERVICE=postgres
+DB_PORT=5432
